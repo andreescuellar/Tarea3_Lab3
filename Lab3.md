@@ -6,7 +6,9 @@
 
 
 1. Crear la clase Monster
+
    1.1 Se indica que es una interface y no una clase.
+   
    1.2 Se declara los dos parametros que deben tener las otras dos sub clases que posteriormente se realizaran.
 
  ![](Monster.png)
