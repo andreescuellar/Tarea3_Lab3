@@ -9,13 +9,8 @@
    1.1 Se indica que es una interface y no una clase.
    1.2 Se declara los dos parametros que deben tener las otras dos sub clases que posteriormente se realizaran.
 
- ![](/images/Shape.png)
- 
- ![](/Laboratorio3_Polimorfismo/Shape.png)
- 
- ![](Shape.png)
- 
- ![](Laboratorio3_Polimorfismo/Shape.png)
+ ![](/images/Monster.png)
+
  
 2. Crear la clase FireMonster
 
@@ -25,16 +20,8 @@
 
     2.3 Se escribe un to string para obtener el valor de todos los datos y organizarlos en una cadena alfanumerica. 
 
-
-   ![](/images/Rectangulo.png)
+ ![](/Tarea3_Lab3/Fire.png)
  
- ![](/Laboratorio3_Polimorfismo/Rectangulo.png)
- 
- ![](Rectangulo.png)
- 
- ![](Laboratorio3_Polimorfismo/Rectangulo.png)
-
-
 3. Crear la clase WaterMonster
 
     3.1 Se declaran las variables de la clase WaterMonster que seria nombre y ataque.
@@ -42,14 +29,9 @@
     3.2 Se crea el constructor que obtendra los valores de las variables. 
 
     3.3 Se escribe un to string para obtener el valor de todos los datos y organizarlos en una cadena alfanumerica. 
-    
-  ![](/images/Triangulo.png)
  
- ![](/Laboratorio3_Polimorfismo/Triangulo.png)
+  ![](Water.png)
  
-  ![](Triangulo.png)
- 
- ![](Laboratorio3_Polimorfismo/Triangulo.png)
  
  4. Crear la clase StoneMonster
 
@@ -59,13 +41,8 @@
 
     4.3 Se escribe un to string para obtener el valor de todos los datos y organizarlos en una cadena alfanumerica.
     
- ![](/images/Main.png)
  
- ![](/Laboratorio3_Polimorfismo/Main.png)
- 
- ![](Main.png)
- 
- ![](Laboratorio3_Polimorfismo/Main.png)
+ ![](Tarea3_Lab3/Fire.png)
  
 
 5. Crear la clase Main
